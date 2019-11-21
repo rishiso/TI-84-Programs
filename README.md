@@ -8,6 +8,7 @@ Finds compount interest after inputting principal, rate, number of times compoun
 Simply draws a cool shape.
 
 [FIBO.8xp](FIBO.8xp):
+
 Finds the nth term of a fibonacci sequence.
 
 [RADSIMP.8xp](RADSIMP.8xp):

@@ -11,7 +11,7 @@ Simply draws a cool shape.
 Finds the nth term of a fibonacci sequence.
 
 **Radsimp:**
-Simplifies a radical after inputting the radicand. It does not work with variables for negative numbers.
+Simplifies a radical after inputting the radicand. It does not work with variables or negative numbers.
 
 **Vertex:**
 Finds the vertex of a quadratic equation after inputting a, b, and c.

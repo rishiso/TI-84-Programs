@@ -1,16 +1,16 @@
 # TI-84-Programs
 Random assortment of programs for the TI-84 calculator
 
-[Compound](COMPOUND.8xp)
+[COMPOUND.8xp](COMPOUND.8xp)
 Finds compount interest after inputting principal, rate, number of times compounded, and years.
 
-**Diamond:**
+[DIAMOND.8xp](DIAMOND.8xp)
 Simply draws a cool shape.
 
-**Fibo:**
+[FIBO.8xp](FIBO.8xp)
 Finds the nth term of a fibonacci sequence.
 
-**Radsimp:**
+[RADSIMP.8xp](RADSIMP.8xp)
 Simplifies a radical after inputting the radicand. It does not work with variables or negative numbers.
 
 **Vertex:**

@@ -4,7 +4,7 @@
 Finds compound interest after inputting principal, rate, number of times compounded, and years.
 
 **Diamond:**
-Draws a cool diamond.
+Draws a cool diamond figure.
 
 **Fibo:**
 Finds the nth term of a fibonacci sequence.
